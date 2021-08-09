@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 export defalut class Home extends React.Component {
     render(){
         return(
-            <h1>Home!</h1>
+            <nav>Nav bar!</nav>
         )
     }
 }
